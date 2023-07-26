@@ -1,6 +1,6 @@
 # Changelog
 
-## v0.n
+## v0.2
   * Did not describe the feature but the future in `Feature_Branch.md`
   * Add some layout changes to `Changelog.md`
 
