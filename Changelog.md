@@ -1,7 +1,7 @@
 # Changelog
 
 ## v0.n
-  * 
+  * Introduced tag v0.2-1
 
 ## v0.2
   * Did not describe the feature but the future in `Feature_Branch.md`
